@@ -1,0 +1,5 @@
+If we get a FDC connect begain,and now we want use command to get a database table name.......
+1.creat one FDC_connect call name FDCC
+2.creat table --->String FTable
+FDCC->GetTableNames("","","",FTable,);
+And FTable will you need~~
