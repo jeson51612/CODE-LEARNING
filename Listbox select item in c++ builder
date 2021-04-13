@@ -1,0 +1,4 @@
+if get a one listbox name listbox1,one button name btn1,one edit name edit1
+int select_number=listbox1->ItemIndex;
+edit1->Text=\listbox1->Items->Strings[select_number]
+And edit1->Text have your choose Strings~~
